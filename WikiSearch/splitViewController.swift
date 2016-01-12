@@ -2,7 +2,7 @@
 //  splitViewController.swift
 //  WikiSearch
 //
-//  Created by おとうさん on 2015/12/27.
+//  Created by todotani on 2015/12/27.
 //  Copyright © 2015年 Todotani. All rights reserved.
 //
 
